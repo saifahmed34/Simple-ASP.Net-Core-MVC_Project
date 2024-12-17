@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saifa\\source\\repos\\myapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\migrations\\20241213175743_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\migrations\\20241213175743_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|c:\\users\\saifa\\source\\repos\\myapp\\myapp\\migrations\\20241213183444_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B685AF-A1E1-466A-9AC5-59A88BB72916}|myapp\\myapp.csproj|solutionrelative:myapp\\migrations\\20241213183444_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "myapp\\Views\\Items\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Delete.cshtml",
+              "RelativeToolTip": "myapp\\Views\\Items\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T13:08:31.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "myapp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "myapp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA8wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:59:24.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "myapp\\Views\\Items\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Edit.cshtml",
+              "RelativeToolTip": "myapp\\Views\\Items\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T12:56:05.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "myapp\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "myapp\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:27:33.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "myapp\\Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "myapp\\Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:40:27.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "myapp\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "myapp\\Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T20:54:44.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241213175743_Intial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Migrations\\20241213175743_Intial Migration.cs",
+              "RelativeDocumentMoniker": "myapp\\Migrations\\20241213175743_Intial Migration.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Migrations\\20241213175743_Intial Migration.cs",
+              "RelativeToolTip": "myapp\\Migrations\\20241213175743_Intial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:57:43.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241213183444_second migration.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Migrations\\20241213183444_second migration.cs",
+              "RelativeDocumentMoniker": "myapp\\Migrations\\20241213183444_second migration.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Migrations\\20241213183444_second migration.cs",
+              "RelativeToolTip": "myapp\\Migrations\\20241213183444_second migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:34:44.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\appsettings.json",
+              "RelativeDocumentMoniker": "myapp\\appsettings.json",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\appsettings.json",
+              "RelativeToolTip": "myapp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T17:49:46.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "myapp\\Data\\MyAppContext.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "myapp\\Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:57:13.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "myapp\\Views\\Items\\Overview.cshtml",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "myapp\\Views\\Items\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:31:17.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "myapp\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Models\\Item.cs",
+              "RelativeToolTip": "myapp\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:24:53.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Program.cs",
+              "RelativeDocumentMoniker": "myapp\\Program.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\myapp\\myapp\\Program.cs",
+              "RelativeToolTip": "myapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:17:27.791Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
